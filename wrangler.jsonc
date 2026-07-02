@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "meta-ad-library-surfer",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "meta-ad-library-surfer-db",
+			"database_id": "6dcb4317-4b6c-4c99-9178-f23b3054adc1"
+		}
+	]
+}
